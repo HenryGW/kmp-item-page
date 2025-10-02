@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "KMPItemPage",
             url: "https://github.com/HenryGW/kmp-item-page/releases/download/0.0.4/KMPItemPage-0.0.4.xcframework.zip",
-            checksum: "cd53859d394428b01ef7d5aaa8ca0c8360a1bf8195bed04461bc1d246e6cd470"
+            checksum: "7382eb9a1c6cd24c475ed78a6b0e326a418de51b1bc1dad31cef3d96bca9c559"
         )
     ]
 )
