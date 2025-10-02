@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KMPItemPage",
-            url: "https://github.com/HenryGW/KMPItemPage/releases/download/0.0.2/KMPItemPage-0.0.2.xcframework.zip",
+            url: "https://github.com/HenryGW/KMPItemPage/releases/download/0.0.4/KMPItemPage-0.0.4.xcframework.zip",
             checksum: "cd53859d394428b01ef7d5aaa8ca0c8360a1bf8195bed04461bc1d246e6cd470"
         )
     ]
